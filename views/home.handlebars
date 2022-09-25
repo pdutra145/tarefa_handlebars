@@ -1,0 +1,8 @@
+<h1>Bem Vindo a página principal</h1>
+
+{{#each products}}
+    <div>
+        <p>Produto: {{this.name}}</p>
+        <a href="{{this.route}}">Acessar</a>
+    </div>
+{{/each}}

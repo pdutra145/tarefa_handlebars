@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(180,180,180);
+    color:darkslategrey;
+    text-align: center;
+    font-size: 2rem;
+}
+
+h1 {
+    color:rgb(24, 20, 20);
+}
+
+div {
+    margin: 50px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    line-height: 5rem;
+}
+
+a {
+    color:brown;
+}
